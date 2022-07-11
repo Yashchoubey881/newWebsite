@@ -1,2 +1,2 @@
-# newWebsite
+# newsWebsite
 newsWebsite made using javascript
